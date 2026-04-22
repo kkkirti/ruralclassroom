@@ -1,4 +1,4 @@
-# ruralclassroom
+
 # 🌾 Rural Classroom – Frontend
 
 A responsive **multi-role educational platform UI** built using React and Vite.
